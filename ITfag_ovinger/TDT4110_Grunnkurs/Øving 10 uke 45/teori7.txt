@@ -1,0 +1,18 @@
+Teori 7
+
+a) En algoritme er et ordnet sett av entydige, utførbare skritt som definerer en terminerende prosess. Ofte representert ved pseudokuode.
+
+b) Kjøretid O(n^2) vil si at tidsbruken til en algoritme er proporsjonalt med n^2 der n er antall operasjoner. F.eks. iterering gjennom en nxn-matrise eller
+	en rekursjon med rekursjonsdybde n av en funksjon med tidsbruk nO(n).
+
+c) Rekursiv algoritme bruker rekursjon - kaller på seg selv - til et visst kriterium er oppnådd. Iterativ algoritme bruker iterasjon til et visst kriterium er
+	oppnådd, eller til en fastsatt mengde iterasjoner er gjennomført.
+
+d) Systemutviklingsmodeller: Inkrementell - Kravsspesifikasjon, utvikling og testing gjøres underveis, og påvirker ofte hverandre.
+	Vannfallsmodellen - Distinkte og separate faser av spesifikasjon, utvikling og testing.
+	Gjenbruksmodellen - Systemet settes sammen av eksisterende komponenter som tilpasses til behov.
+
+e) En smidig(agile) utviklingsprosess kjennetegnes av en inkramentell planlegging, slik at prosessen bedre kan tilpasses en endring av spesifikasjon underveis.
+
+f) En kravsspesifikasjon er en definisjon av programvarens tiltenkte funksjon (og evt. virkemåte), og begrensninger til programvaren (f. eks begrensning av platform)
+

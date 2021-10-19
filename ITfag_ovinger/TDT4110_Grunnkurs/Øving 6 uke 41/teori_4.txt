@@ -1,0 +1,22 @@
+Teori 4 - Nettverk
+
+a) ARPANET var forgjenger til internett, dette ble startet av det amerikanske forsvaret.
+
+b) Paritet: I hver byte brukes 1 bit til å justere til et partall 1-bits i byten før den sendes.
+	Når byten har kommet frem sjekkes den for å se om det faktisk er et partall 1-bits.
+	Hvis et oddetall antall bits er forandret vil man oppdage at byten inneholder en feil.
+
+c) Circuit switching - All informasjon sendes direkte over samme linje, som reserveres for tiden kommunikasjonen varer. Eks. en telefonsamtale.
+
+   Packet switching - Pakker (biter av informasjon) sendes til mottaker den raskeste veien gjennom nettverket, men det betyr ikke nødvendigvis at alle
+	pakkene sendes den samme ruten. Dette tar større nytte av båndbredden til nettet.
+
+d) IP-protokoll-lag:
+	Applikasjon - Grensesnitt for standardisert kommunikasjon (eks. HTTP)
+	Transport - Forbindelse og overføring mellom applikasjoner (eks. TCP)
+	Nettverk - Adressefunksjon, routing og videresending av pakker (eks. IPv4, IPv6)
+	Link - Tilgang til fysisk medium, feilsjekk og korrigering, tilpasse pakkestørrelse
+	Fysisk - Modulering av bits på fysisk medium, fastlinje(ethernet), trådløst(wifi)
+
+e) Rutere: En ruter ser på adressen til en packet, og finner en passende vei i nettet for å sende packeten gjennom nettet.
+	Ruteren sender packeten videre til neste ruter, som gjør det samme, helt til packeten når adressen.

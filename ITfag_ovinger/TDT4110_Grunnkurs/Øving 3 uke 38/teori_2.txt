@@ -1,0 +1,31 @@
+a) Pseudokode er en informativ beskrivelse av en kodesekvens. Ofte kan dette lette overgangen mellom problem og løsning. Pseudokoden er ikke skrevet på
+	kodespråk, men skrevet med vanlige ord i et vanlig språk.
+
+Gjorde ikke oppgaven som jeg skulle skrive pseudokode til i eksempelet, velger en annen oppgave fra øving 2, skatteetaten;
+	Ta input, fritidsbolig, sekundærbolig eller vanlig bolig. Hvis vanlig bolig: ta input av hvor mange prosent som leies ut, og inntekt.
+	Hvis prosentandelen er større enn 50, og leieinntekten er større enn 20 000 skal hele beløpet skattelegges.
+	Hvis sekundærbolig: Ta input av inntekt og antall som leies ut. Skattepliktig beløp er inntekt*antall.
+	Hvis fritidsbolig: Ta input av om dette er en utleiebolig eller til privat bruk.
+		Hvis utleie: Ta input av inntekt og antall. Skattepliktig beløp er inntakt*antall.
+		Hvis privat: Ta input av inntekt. Hvis inntekt > 10 000 skal (inntekt-10000)*0.85 (altså 85% av overstigningen) skattelegges.
+
+b) Et flytdiagram er en grafisk, sekvensiell fremstilling av en kode, slik at den skal bli lettere å forstå for mennesker.
+
+c) Debugging er å søke etter og fjerne bugs fra programmet. (bugs er biter av kode som gjør at programmet ikke gjør det som var målet.)
+
+d) Høynivå-programmeringsspråk gir større skille mellom den koden som skrives inn, og CPUens instruksjoner i F/E-syklusen. Det betyr at man ofte tar
+	"snarveier" ved å la programmeringsspråket ta seg av ting som f. eks. håndtering av minne. Lavnivå-språk er nærere datamaskinens egne instruksjoner.
+	Det er ofte enklere å programmere med høynivåspråk, da språket ligger nærmere menneskelige språk.
+
+e) Hente/Utføre-kretsen: (Fetch/execute) består av fem steg:
+	1) Kontrollenheten henter en instruksjon fra (det interne) minnet. (Instruction Fetch)
+	2) Kontrollenheten dekoder instruksjonen (Instruction Decode)
+	3) Kontrollenheten henter data fra instruerte minneadresser til ALU-en (Data Fetch)
+	4) ALU-en utfører selve instruksjonen/beregningen. (Instruction Execute)
+	5) Kontrollenheten returnerer resultatet fra ALU til den minneadressen som ble spesifisert i instruksjonene. (Return Result)
+
+f) Programtelleren holder kontroll på hvilken instruksjon datamaskinen jobber med. Den hopper automatisk til neste minneord, dvs. at den hopper 4 bytes
+	for å lese neste instruksjon. Hvis det returnerte resultatet fra F/E-syklusen angir en annen minneadresse, kan programtelleren hoppe til den angitte
+	minneadressen.
+
+

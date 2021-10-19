@@ -1,0 +1,14 @@
+Teori 6 - Nettverk del 3
+
+1) Lost packets: TCP oppdager når packets er tapt, og sender dem på nytt.
+
+2) Nettverksytelse: Informasjonstap, forsinkelse(ping) og kapasitet avgjør ytelsen til nettverket
+
+3) RSA-kryptering: Avsender sender melding til mottager (som har en offentlig nøkkel). Avsender krypterer meldingen med den offenlige nøkkelen.
+	Mottager dekrypterer meldingen med den private nøkkelen. Meldinger kryptert med mottagers offentlige nøkkel kan kun dekrypteres med den tilhørende
+	private nøkkelen. Krypteringsnøkkelen er basert på en algoritme med to store primtall(over 100 siffer).
+
+4) VPN - Virtual Private Network: Utvidelse av et internt nettverk til en privat bruker. Nettverksbruk går via det nevnte private nettverket gjennom en VPN-tunnell.
+
+5) DDos-angrep: Et nettverksangrep som overbelaster båndbredden til et system ved å sende store mengder falske requests. Dette vil nekte tjeneste for reelle
+	requests.

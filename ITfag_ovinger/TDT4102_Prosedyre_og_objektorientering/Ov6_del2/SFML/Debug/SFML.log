@@ -1,0 +1,21 @@
+﻿  GameObjects.cpp
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\gameobjects.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\gameobjects.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\gameobjects.cpp(45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\gameobjects.cpp(47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\gameobjects.cpp(51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\gameobjects.cpp(82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\gameobjects.cpp(83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\gameobjects.cpp(96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  utilities.cpp
+  game.cpp
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\game.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\game.cpp(24): warning C4244: 'argument': conversion from 'const double' to 'unsigned int', possible loss of data
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\game.cpp(30): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\game.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\game.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\bruker\source\repos\tdt4102_ovinger\ov6_del2\sfml\game.cpp(130): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SFML.vcxproj -> C:\Users\Bruker\source\repos\TDT4102_Ovinger\Ov6_del2\Debug\SFML.exe

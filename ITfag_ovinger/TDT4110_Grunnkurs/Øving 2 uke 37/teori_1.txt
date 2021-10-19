@@ -1,0 +1,22 @@
+Teori 1 (itgk)
+
+a) Primær lagring: lagrer informasjon som brukes for øyeblikket (eks. RAM)
+   Sekundær lagring: lagrer informasjon som kan hentes frem når den trengs (eks. harddisk, SSD)
+
+b) Harddisk og SSD er permanent (dvs, de kan lagre informasjon også uten strømtilførsel) i motsetning til RAM, som er volatilt
+   RAM har tilfeldig aksess (RAM = Random Access Memory = tilfeldig aksess minne), dvs. at alle punkter for lagring kan nås direkte.
+   Harddisk har ofte sekvensiell aksess, dvs. at de sjekker alle lagringspunkter i en viss rekkefølge til de finner en ledig plass å lagre informasjonen.
+	Tror SSD også har en type tilfeldig (direkte) aksess.
+
+c) Silisium er et godt halvledermetall med fire valenselektroner som gjør det velegnet for doping. Dopingen skaper små spenningsforskjeller
+	internt i metallet, og dette er grunnlaget for å lage svært små transistorer (som er grunnlaget for datamaskiner).
+
+d) Datamaskinen lagrer bilder, lyd og tekst binært. Et bilde kan beskrives av en rekke piksler som enten lyser, eller ikke lyser (har verdi 0 eller 1)
+	Flere piksler gir høyere bildekvalitet (antall piksler = oppløsning). I tekst har hvert tegn en egen binær verdi (f. eks i ASCII-systemet) som
+	damataskinen kan lagre. Lyd kan også lagres som digital informasjon, og kan spilles av ved å gi visse instrukser til høyttalerne som skal spille lyden.
+
+e) 32 000 bytes = 32 000 * 8 = 256 000 bits.
+	256 000 bits / 40 sek = 6400 bit/s = 6.4 Kbit/s
+
+f) OS = Operativsystem. "Oversetter" menneskelig språk til datamaskinspråk. Gjør at mennesker lettere kan bruke datamaskinen.
+

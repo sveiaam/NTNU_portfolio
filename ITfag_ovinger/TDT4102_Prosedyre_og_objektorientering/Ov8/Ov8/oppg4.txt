@@ -1,0 +1,7 @@
+Hello.
+
+This is a text that is intended to inform you if the function(s) presented in question four is working as intended.
+In a sense, it's purpose is just to fill space. We certainly would not accept words such as זרו.
+The file has seven lines. I don't know the amount of words.
+
+Cheers.

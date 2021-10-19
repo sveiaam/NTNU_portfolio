@@ -1,0 +1,15 @@
+Teori 5 - nettverk del 2
+
+a)-Intranett er et internt nettverk (for en gruppe) satt opp (som regel) for sikker kommunikasjon mellom gruppens medlemmer.
+
+b)-Ruter: fordeler informasjon i nettverk. Host: nettverkets mester, den/det som setter opp og opprettholder nettverket.
+
+c)-Protokoll er et sett med regler som bestemmer hvordan informasjon som sendes gjennom nettverk skal tolkes.
+
+d)-IP-adresse er en unik nettverksadresse som tilegnes en enkelt enhet.
+
+e)-IPv4 har 32-bits IP-adresser - dvs 2^32 ~ 4,3 milliarder. IPv6 har 128-bits IP-adresser - dvs 2^128 ~ 3,4e38. Det er behov for IPv6 fordi det er mangel
+	på ledige IPv4-adresser. Dessuten er IPv6 optimalisert på andre måter.
+
+f)-IP-protokollen (IPP?) fungerer ved at den deler opp informasjon i packets. Disse har bl.annet en header som viser adressen(IP-adressen) packeten skal til,
+	og sender så packeter ut i nettet. Rutere vil dirigere packetene mot adressen, der det er plass til dem.

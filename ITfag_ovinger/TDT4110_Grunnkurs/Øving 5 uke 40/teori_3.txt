@@ -1,0 +1,21 @@
+Teori 3 (Øving 5)
+
+a) ved 4 bytes kan 2^(8*4) = 2^32 ~= 4,3*10^9 ulike verdier representeres. 
+
+b) DAC = Digital (to) Analogue Converter er en enhet som konverterer et digitalt signal til et analogt.
+	Dette kan f. eks være en høyttaler.
+
+c) 18 = 10010 (binær) = 12 (heksadesimal)
+
+d) OLE = 79 76 69
+
+e) En pixel (Picture element) er én av et endelig mange punkter med en bestemt farge og lysstyrke som til sammen danner et bilde. I datamaskinens sammenheng er
+	en piksel et sett med verdier som kan lagres. Hvis mange nok piksler lagres kan datamaskinen sette dem sammen til et bilde. (Ofte brukes komprimering for å
+	redusere antall verdier som må lagres) Dette er måten datamaskinen kan lagre bilder på.
+
+f) Analog lyd er trykkbølger gjennom et fysisk medium. Digital lyd er en mengde verdier som har informasjon om et målt lufttrykk (amplitude) med et visst intervall
+	(samplingsfrekvens). Lydens andre egenskap, frekvensen, kan finnes gjennom målingene av amplituden. En kan gå fra det ene til det andre ved å konvertere det.
+	Mikrofoner vil måle lufttrykk med en viss samplingsfrekvens, og lagre disse dataene (ofte komprimert). En høyttaler vil lese verdiene og skape mekaniske
+	bølger med samme amplitude og frekvens som verdiene i datamaskinen antydet.
+
+g) Metadata er data som beskriver annen data. Eks: "Høyden er 3 meter". "3 meter" er data, mens "høyden" er metadata. Det beskriver hva dataen betyr.
